@@ -2,10 +2,10 @@
 <h3 align="center">Let's Build Something amazing with GPT-3 OpenAI.</h3>
 
 <h3 align="left">Screenshots:</h3>
-<img src="https://drive.google.com/uc?id=1dI7Bn0RCL64MWf78WGzIeUsflW2KP9S4" alt="image1" width="500">
-<img src="https://drive.google.com/uc?id=1jRryMtmZV2Wl4u0N_GaZEb3iy-EZ7jli" alt="image2" width="500">
-<img src="https://drive.google.com/uc?id=1nT5ID-AfAAUHc9aP2zWM0n6Mt2N9FjHs" alt="image3" width="500">
-<img src="https://drive.google.com/uc?id=15sQn09u65h-ZPhuKnmkmdpGBmE-GlapG" alt="image4" width="500">
+<img src="https://drive.google.com/uc?id=1dI7Bn0RCL64MWf78WGzIeUsflW2KP9S4" alt="image1" width="800">
+<img src="https://drive.google.com/uc?id=1jRryMtmZV2Wl4u0N_GaZEb3iy-EZ7jli" alt="image2" width="800">
+<img src="https://drive.google.com/uc?id=1nT5ID-AfAAUHc9aP2zWM0n6Mt2N9FjHs" alt="image3" width="800">
+<img src="https://drive.google.com/uc?id=15sQn09u65h-ZPhuKnmkmdpGBmE-GlapG" alt="image4" width="800">
 
 <h3 align="left">Languages and Tools:</h3>
 
